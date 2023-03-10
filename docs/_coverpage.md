@@ -1,9 +1,8 @@
-# Mozz
+# Light-Charts
 
-> state management tool base on React Hooks.
+> 一个轻量、定制化的react基础图表库
 
-[GitHub](https://github.com/yangbo5207/moz)
-[中文](/zh-cn/)
-[Get Started](/get-started)
+[GitHub](https://github.com/weilun0510/light-charts.git)
+[快速上手](./get-started.md)
 
 ![color](#f0f0f0)

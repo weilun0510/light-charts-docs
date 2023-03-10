@@ -1,2 +1,4 @@
-* [Get Started](./get-started.md)
+* [快速上手](./get-started.md)
+
+* [组件](./components.md)
 
