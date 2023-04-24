@@ -1,4 +1,4 @@
-# echarts-for-abc
+# light-charts
 一个轻量、定制化的react基础图表库
 
 ## 使用文档

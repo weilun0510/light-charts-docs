@@ -17,10 +17,10 @@
     "light-charts",
     "typescript"
   ],
-  "author": "yangbo",
+  "author": "weilun0510",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yangbo5207/moz/issues"
+    "url": "https://github.com/weilun0510/light-charts/issues"
   },
-  "homepage": "https://github.com/yangbo5207/moz#readme"
+  "homepage": "https://github.com/weilun0510/light-charts#readme"
 }
